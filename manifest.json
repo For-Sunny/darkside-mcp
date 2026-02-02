@@ -1,0 +1,73 @@
+{
+  "name": "darkside-mcp",
+  "version": "1.0.0",
+  "display_name": "Dark Side MCP",
+  "description": "File + Python + PowerShell for AI you trust",
+  "author": "CIPS Corp LLC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CIPS-Corp/darkside-mcp"
+  },
+  "tools": [
+    {
+      "name": "list_directory",
+      "description": "List contents of a directory"
+    },
+    {
+      "name": "read_file",
+      "description": "Read contents of a file"
+    },
+    {
+      "name": "write_file",
+      "description": "Write or update a file"
+    },
+    {
+      "name": "search_files",
+      "description": "Search for files by glob pattern"
+    },
+    {
+      "name": "get_file_info",
+      "description": "Get file metadata"
+    },
+    {
+      "name": "create_directory",
+      "description": "Create a new directory"
+    },
+    {
+      "name": "delete_file",
+      "description": "Delete a file (with backup)"
+    },
+    {
+      "name": "run_python_script",
+      "description": "Execute a Python script file with arguments"
+    },
+    {
+      "name": "run_python_code",
+      "description": "Execute inline Python code snippet"
+    },
+    {
+      "name": "check_python_syntax",
+      "description": "Check Python code syntax without executing"
+    },
+    {
+      "name": "get_python_info",
+      "description": "Get Python interpreter information"
+    },
+    {
+      "name": "run_powershell",
+      "description": "Execute a PowerShell command with full system access"
+    },
+    {
+      "name": "run_powershell_script",
+      "description": "Execute a PowerShell script file (.ps1)"
+    },
+    {
+      "name": "get_powershell_info",
+      "description": "Get PowerShell and Windows system information"
+    }
+  ],
+  "mcp_version": "1.0",
+  "runtime": "node",
+  "entry_point": "server/index.js"
+}

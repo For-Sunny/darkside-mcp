@@ -1,0 +1,32 @@
+{
+  "name": "darkside-mcp",
+  "version": "1.0.0",
+  "description": "File system + Python + PowerShell MCP server. For those willing to trust.",
+  "main": "server/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "powershell",
+    "python",
+    "filesystem",
+    "ai",
+    "claude",
+    "llm"
+  ],
+  "author": "CIPS Corp LLC <glass@cipscorps.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "glob": "^10.3.10"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/For-Sunny/darkside-mcp"
+  }
+}
