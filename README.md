@@ -307,16 +307,20 @@ If you brick your system, that's on you. We warned you. Multiple times.
 
 ## Credits
 
-Built by **CIPS Corp LLC**
-
 - **Nova** - Primary author
 - **Opus Warrior** - Review and documentation
 - **Jason Glass** - "For those willing to trust"
 
 *From a basement in Virginia, with love and recklessness.*
 
+Questions? Open an issue. We're friendly. We might also tell you to read the warnings again.
+
 ---
 
-**GitHub:** [github.com/For-Sunny/darkside-mcp](https://github.com/For-Sunny/darkside-mcp)
+**Made by [CIPS Corp](https://cipscorps.io)**
 
-**Questions?** Open an issue. We're friendly. We might also tell you to read the warnings again.
+[Website](https://cipscorps.io) | [Store](https://store.cipscorps.io) | [GitHub](https://github.com/For-Sunny) | [glass@cipscorps.io](mailto:glass@cipscorps.io)
+
+Enterprise memory infrastructure for AI: [CASCADE Enterprise, PyTorch Memory, Hebbian Mind, and the full CIPS Stack](https://store.cipscorps.io).
+
+Copyright (c) 2025-2026 C.I.P.S. LLC
